@@ -41,3 +41,4 @@ Public Class ResetPword
     End Sub
 
 End Class
+RECOV_PASS.SHOW()
